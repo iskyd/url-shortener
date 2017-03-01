@@ -1,0 +1,29 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp: URL Shortener",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskyd/urlshortener"
+  },
+  "keywords": [
+    "API",
+    "urlshortener",
+    "Iskyd"
+  ],
+  "author": "Mattia Careddu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iskyd/urlshortener/issues"
+  },
+  "homepage": "https://github.com/iskyd/urlshortener",
+  "dependencies": {
+    "express": "^4.13.3",
+    "dotenv": "^1.2.0",
+    "mongodb": "^2.1.4"
+  }
+}
